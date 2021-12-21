@@ -25,3 +25,4 @@ def get_pets_list(link, params, headers):
 
 
 print(get_pets_list(my_pets_link, get_params_my_pets, get_headers_my_pets))
+

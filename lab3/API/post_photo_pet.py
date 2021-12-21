@@ -24,3 +24,4 @@ def post_set_photo(link, post_params, post_headers):
 
 
 print(post_set_photo(set_photo_POST_link, post_set_photo_params, post_set_photo_headers))
+

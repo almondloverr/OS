@@ -27,3 +27,4 @@ def post_new_pet(link, post_params, post_headers):
 
 
 print(post_new_pet(new_pet_POST_link, post_new_pet_params, post_new_pet_headers))
+
